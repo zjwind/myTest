@@ -12,5 +12,6 @@
 public class myClassA {
     public static void A(){
         System.out.println("this is class A");
+        System.out.println("first commit change");
     }
 }
